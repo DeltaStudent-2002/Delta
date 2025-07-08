@@ -1,3 +1,2 @@
-# Delta
-
-## Please use this repo to download your in-class starter codes.
+*delta demo
+This is demo for Git &amp; Github class
